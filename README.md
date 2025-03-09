@@ -4,25 +4,25 @@
 
  # 1. Gender Analysis
 
-Most of the buyers are females.
+- Most of the buyers are females.
 
-Female buyers also have higher purchasing power compared to men.
+- Female buyers also have higher purchasing power compared to men.
 
 # 2. Age Group Analysis
 
-The majority of buyers fall in the 26-35 years age group.
+- The majority of buyers fall in the 26-35 years age group.
 
-Female buyers dominate this category.
+- Female buyers dominate this category.
 
 # 3. State-Wise Sales
 
-The highest number of orders and total sales are from:
+- The highest number of orders and total sales are from:
 
-Uttar Pradesh
+- Uttar Pradesh
 
-Maharashtra
+- Maharashtra
 
-Karnataka
+- Karnataka
 
 # 4. Marital Status and Purchasing Power
 
@@ -32,23 +32,23 @@ They also exhibit higher purchasing power.
 
 # 5. Occupation-Based Insights
 
-Most buyers work in IT, Healthcare, and Aviation sectors.
+- Most buyers work in IT, Healthcare, and Aviation sectors.
 
 # 6. Product Category Preferences
 
-The most sold products belong to:
+- The most sold products belong to:
 
-Food
+- Food
 
-Clothing
+- Clothing
 
-Electronics
+- Electronics
 
 # Conclusion
 
-The most likely buyers are:
+- The most likely buyers are:
 
-Married women aged 26-35 years.
+- Married women aged 26-35 years.
 
 From Uttar Pradesh, Maharashtra, and Karnataka.
 
